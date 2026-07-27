@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TommasoEOlo.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f761ba3315d598f827d93cb0824e4ec15788a148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1433d90be102236ce35bb542992e096aa05aa18")]
 [assembly: System.Reflection.AssemblyProductAttribute("TommasoEOlo.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TommasoEOlo.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
