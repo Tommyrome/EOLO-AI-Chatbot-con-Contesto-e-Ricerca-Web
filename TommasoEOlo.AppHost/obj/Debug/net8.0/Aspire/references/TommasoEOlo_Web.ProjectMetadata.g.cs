@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class TommasoEOlo_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\TommasoEOlo.Web.csproj""";
+    public string ProjectPath => """C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.Web\TommasoEOlo.Web.csproj""";
 }

@@ -34,3 +34,16 @@ D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\
 D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\refint\TommasoEOlo.ServiceDefaults.dll
 D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
 D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\ref\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.deps.json
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfo.cs
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.sourcelink.json
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\refint\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\ref\TommasoEOlo.ServiceDefaults.dll

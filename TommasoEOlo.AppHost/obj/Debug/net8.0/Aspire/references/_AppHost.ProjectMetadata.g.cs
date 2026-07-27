@@ -8,5 +8,5 @@ namespace Projects;
 public class TommasoEOlo_AppHost
 {
     private TommasoEOlo_AppHost() { }
-    public static string ProjectPath => """D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.AppHost""";
+    public static string ProjectPath => """C:\Users\tomma\Desktop\tommaso\scuola\superiori\pcto\progetto\TommasoEOlo\TommasoEOlo.AppHost""";
 }
