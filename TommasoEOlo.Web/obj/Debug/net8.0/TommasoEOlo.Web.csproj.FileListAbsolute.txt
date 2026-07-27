@@ -1,0 +1,214 @@
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.runtime.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.endpoints.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.exe
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.deps.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.runtimeconfig.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.pdb
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.AssemblyReference.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfoInputs.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfo.cs
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.CoreCompileInputs.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\bundle\TommasoEOlo.Web.styles.css
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\projectbundle\TommasoEOlo.Web.bundle.scp.css
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoE.5C8497E9.Up2Date
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\refint\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.pdb
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.genruntimeconfig.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\ref\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.runtime.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.endpoints.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.exe
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.deps.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.runtimeconfig.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.pdb
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.AssemblyReference.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfoInputs.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfo.cs
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.CoreCompileInputs.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\bundle\TommasoEOlo.Web.styles.css
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\projectbundle\TommasoEOlo.Web.bundle.scp.css
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoE.5C8497E9.Up2Date
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\refint\TommasoEOlo.Web.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.pdb
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.genruntimeconfig.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\ref\TommasoEOlo.Web.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\appsettings.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.runtime.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.staticwebassets.endpoints.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.exe
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.deps.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.runtimeconfig.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.Web.pdb
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Google.Protobuf.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Core.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.Extensions.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.AssemblyReference.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfoInputs.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.AssemblyInfo.cs
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.csproj.CoreCompileInputs.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\bundle\TommasoEOlo.Web.styles.css
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\scopedcss\projectbundle\TommasoEOlo.Web.bundle.scp.css
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoE.5C8497E9.Up2Date
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\refint\TommasoEOlo.Web.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.pdb
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\TommasoEOlo.Web.genruntimeconfig.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.Web\obj\Debug\net8.0\ref\TommasoEOlo.Web.dll

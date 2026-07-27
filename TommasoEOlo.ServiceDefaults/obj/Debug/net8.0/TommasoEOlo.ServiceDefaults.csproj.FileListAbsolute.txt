@@ -1,0 +1,36 @@
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.deps.json
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfo.cs
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\refint\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\source\repos\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\ref\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.deps.json
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfo.cs
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\refint\TommasoEOlo.ServiceDefaults.dll
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+C:\Users\tommaso.rometti\OneDrive - EOLO SpA\Desktop\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\ref\TommasoEOlo.ServiceDefaults.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.deps.json
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\bin\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.AssemblyReference.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfoInputs.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.AssemblyInfo.cs
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\refint\TommasoEOlo.ServiceDefaults.dll
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\TommasoEOlo.ServiceDefaults.pdb
+D:\scuola\4BI\Alternanza Eolo\TommasoEOlo\TommasoEOlo.ServiceDefaults\obj\Debug\net8.0\ref\TommasoEOlo.ServiceDefaults.dll
