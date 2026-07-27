@@ -6,8 +6,8 @@ import requests
 
 sys.stderr.reconfigure(encoding='utf-8')
 
-SERPAPI_API_KEY = "10786895b7c87ed952ea4efb64b350bd0421b51053f1f50f6a3513dc0249635b"
-SERPAPI_BACKUP_KEY = "846d7474852d465d844069b69edf646fc503fe2a949a8596a65fedf55ade8c85"
+SERPAPI_API_KEY = " "
+SERPAPI_BACKUP_KEY = " "
 
 def effettua_ricerca(query, num_risultati, api_key):
     search = GoogleSearch({

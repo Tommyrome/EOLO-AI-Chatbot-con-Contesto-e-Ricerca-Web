@@ -800,8 +800,8 @@ public static class QdrantHelper
 
 static class OpenRouterHelper
 {
-    private static readonly string apiKey = "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";
-    private static readonly string apiKeyBackup = "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";
+    private static readonly string apiKey = " ";
+    private static readonly string apiKeyBackup = " ";
     private static readonly string apiUrl = "https://openrouter.ai/api/v1/chat/completions";
 
     // HttpClient condiviso per riuso connessioni e miglior performance

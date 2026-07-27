@@ -3,7 +3,7 @@ from qdrant_client.models import PointIdsList
 
 # Configura questi parametri secondo il tuo ambiente
 QDRANT_URL = "https://25cfc2ae-2333-45f0-8510-505468b1fbaf.europe-west3-0.gcp.cloud.qdrant.io"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.nE2N9Aps9l_opuqHHxNOC4RgQpGfV4JTQVVqbQ-cp_k"
+API_KEY = " "
 COLLECTION = "chat_embeddings"
 
 # Connessione a Qdrant
