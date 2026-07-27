@@ -1,0 +1,1 @@
+ EOLO AI Chatbot Chatbot con AI (OpenRouter), contesti da Google (SerpAPI), memoria vettoriale (Qdrant), generazione immagini (Stability AI), upload file (PDF/DOCX/TXT/JPG/PNG). Tecnologie: C#/.NET, Python/FastAPI, Blazor. Avvio: 1) uvicorn Embedding:app --port 8000 2) dotnet run backend 3) dotnet run frontend. Configurare chiavi API in backend e percorsi file.
